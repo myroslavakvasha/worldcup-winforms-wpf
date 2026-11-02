@@ -200,7 +200,6 @@ namespace WorldCupForms
             }
         }
 
-        // checks if the dragged data is a PlayerCardControl; if yes, sets effect to Move, otherwise None
         // this is what makes the drop target "accept" the drag
         private void Panel_DragEnter(object? sender, DragEventArgs e)
         {

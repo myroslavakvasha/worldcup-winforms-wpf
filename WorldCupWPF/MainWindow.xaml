@@ -192,5 +192,5 @@
               Background="Black" 
               Opacity="0.4" 
               Visibility="Collapsed"/>
-    </Grid>
+        </Grid>
 </Window>
